@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 5em;
+    letter-spacing: 0.1em;
+}
+
+#role {
+    margin-left: 15em;
+    font-size: 1em;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    gap: 1em; 
+    margin-top: 3em;
+    margin-left: 1em;
+}
+
+.left-column {
+    border-right: 2px solid gray; 
+    padding-right: 1em;
+}
+
+article {
+    margin: 1em;
+}
+
+h3 {
+    font-size: 1.2em;
+}
